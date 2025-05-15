@@ -1,0 +1,98 @@
+html {
+    background: linear-gradient(to bottom, #b8c6ff, #d8b4f8);
+}
+
+body {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    border: 2px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+    background: linear-gradient(to left, #896fff, #cf9bea);
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(56, 56, 229);
+}
+
+h2 {
+    color: rgb(56, 56, 229);
+    border-bottom: 2px solid rgb(167, 167, 245);
+    padding-bottom: 5px;
+}
+
+header {
+    margin: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+a {
+    font-style: italic;
+}
+
+a:link {
+    color: #00c3ff;
+}
+
+a:hover,
+a:focus {
+    color: #e2e88c;
+}
+
+a:visited {
+    color: #9500ff;
+}
+
+section p {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.right_side {
+    margin-left: 50px;
+    line-height: 2em;
+}
+
+.profile_pic {
+    width: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+
+
+#did-you-know {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+#didYouKnowButton {
+    background-color: rgb(192, 101, 192); /* Düz mor renk */
+    transition: background-color 0.3s ease;
+    color: rgb(99, 24, 238);
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#didYouKnowButton:hover {
+    background-color: #8a178ac6; /* Daha koyu mor tonu */
+}
+#infoBox {
+    transition: all 0.3s ease;
+    margin-top: 10px;
+    padding: 7px;
+    background-color: #db8fde;
+    border: 1px solid #520404;
+    color:black;
+    display: none;
+}
