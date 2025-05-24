@@ -7,7 +7,7 @@
 ### 💻 Hakkımda
 
 - 👨‍💻 Aktif olarak yeni teknolojiler öğreniyor ve projeler geliştiriyorum.  
-- 🎯 Hedefim: Temiz, sürdürülebilir ve kullanıcı odaklı yazılımlar üretmek.  
+- 🎯 Hedefim: Teknolojiyle insanların hayatını kolaylaştırmayı arzuluyorum.  
 - 📚 İlgi alanlarım: Web geliştirme, C/C++/C#, Java, siber güvenlik ve oyun geliştirme.  
 - 🌱 Şu anda PHP ve Oracle SQL üzerinde çalışıyorum.
 - 🛡️ Güvenlik tarafında Burp Suite ve temel pentest araçlarıyla ilgileniyorum.
@@ -15,16 +15,19 @@
 ---
 
 ### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Kullandığım Teknolojiler
+
+
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Oracle SQL](https://img.shields.io/badge/-OracleSQL-F80000?style=flat-square&logo=oracle)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Oracle_SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
 
 ---
