@@ -1,4 +1,3 @@
-##👋👋👋
 
 <h1 align="center">Merhaba, ben Feyza Gülen! 🦊</h1>
 <p align="center">Yazılıma tutkuyla bağlı bir geliştiriciyim. 🚀</p>
