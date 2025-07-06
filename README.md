@@ -9,7 +9,7 @@
 - 👨‍💻 Aktif olarak yeni teknolojiler öğreniyor ve projeler geliştiriyorum.  
 - 🎯 Hedefim: Teknolojiyle insanların hayatını kolaylaştırmayı arzuluyorum.  
 - 📚 İlgi alanlarım: Web geliştirme, C/C++/C#, Java, siber güvenlik ve oyun geliştirme.  
-- 🌱 Şu anda PHP ve Oracle SQL üzerinde çalışıyorum.
+- 🌱 PHP ve Oracle SQL üzerinde çalışıyorum.
 - 🛡️ Güvenlik tarafında Burp Suite ve temel pentest araçlarıyla ilgileniyorum.
 
 ---
