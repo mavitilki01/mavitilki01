@@ -42,7 +42,7 @@
 
 - 💌 Mail: feyza_gulen59@gmail.com 
 - 🌐 LinkedIn: https://linkedin.com/in/feyzagulen
-- 🌍 Kişisel web sitesi: www.mavitilki01.github.io/mavitilki01
+- 🌍 Kişisel web sitesi: [mavitilki01](https://mavitilki01.github.io/mavitilki01/)
 
 ---
 
